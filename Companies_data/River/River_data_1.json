@@ -1,0 +1,82 @@
+
+{
+  "role_id": "river_power_electronics_engineer_full-time",
+  "company": {
+    "name": "River",
+    "industry": [
+      "EV Power",
+      "Automotive"
+    ],
+    "tags": [
+      "EV",
+      "Startup",
+      "Hardware"
+    ]
+  },
+  "role": {
+    "title": "Power Electronics Engineer",
+    "category": "Hardware / Power Electronics",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Electrical and Electronics Engineering",
+      "Power Electronics",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Inverters",
+      "SiC MOSFETs",
+      "PCB Design"
+    ],
+    "good_to_have": [
+      "Relevant EEE Power Projects"
+    ]
+  },
+  "selection_process": [
+    "Simulation Test",
+    "Technical Hardware Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 800000,
+    "max": 1400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Power Electronics Engineer",
+    "River",
+    "EV Power",
+    "Hardware",
+    "Startup"
+  ],
+  "embedding_text": "River, an innovative EV startup, is hiring Power Electronics Engineers across India. Candidates must have relevant EEE power projects and possess strong skills in inverters, SiC MOSFETs, and PCB design. The specialized selection process includes a simulation test followed by a technical hardware interview.",
+  "filters": {
+    "role": "Power Electronics Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Inverters",
+      "SiC MOSFETs",
+      "PCB Design"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

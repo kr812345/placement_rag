@@ -1,0 +1,80 @@
+
+{
+  "role_id": "micron_technology_firmware_engineer_full-time",
+  "company": {
+    "name": "Micron Technology",
+    "industry": [
+      "Memory Chips",
+      "Semiconductors"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Hardware",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Firmware Engineer",
+    "category": "Hardware / Embedded",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Electronics and Communication (ECE)",
+      "Electrical and Electronics Engineering (EEE)"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Embedded C",
+      "Python"
+    ],
+    "good_to_have": [
+      "Relevant EEE Projects"
+    ]
+  },
+  "selection_process": [
+    "Coding Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1200000,
+    "max": 1600000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Firmware Engineer",
+    "Micron Technology",
+    "Semiconductors",
+    "Embedded C",
+    "Fresher"
+  ],
+  "embedding_text": "Micron Technology is hiring freshers for the Firmware Engineer role across India. Candidates must have relevant EEE projects and strong proficiency in Embedded C and Python. The rigorous selection process involves a coding test followed by multiple technical and HR interviews.",
+  "filters": {
+    "role": "Firmware Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Embedded C",
+      "Python"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

@@ -1,0 +1,80 @@
+
+{
+  "role_id": "dxc_technology_graduate_engineer_full-time",
+  "company": {
+    "name": "DXC Technology",
+    "industry": [
+      "IT Services"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter"
+    ]
+  },
+  "role": {
+    "title": "Graduate Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "SQL",
+      "Cloud"
+    ],
+    "good_to_have": [
+      "Strong Academics"
+    ]
+  },
+  "selection_process": [
+    "Aptitude Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Low",
+  "salary": {
+    "min": 360000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Graduate Engineer",
+    "DXC Technology",
+    "Fresher"
+  ],
+  "embedding_text": "DXC Technology is hiring freshers for the Graduate Engineer role across India. Candidates must have a minimum of 60% academics and proficiency in Java, SQL, and cloud basics. The selection process consists of an aptitude test followed by technical and HR interviews.",
+  "filters": {
+    "role": "Graduate Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "SQL",
+      "Cloud"
+    ],
+    "difficulty": "Low"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

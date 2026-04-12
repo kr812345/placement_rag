@@ -1,0 +1,85 @@
+
+{
+  "role_id": "cisco_software_engineer_full-time",
+  "company": {
+    "name": "Cisco",
+    "industry": [
+      "Networking"
+    ],
+    "tags": [
+      "Networking",
+      "MNC",
+      "Hardware",
+      "Product-Based"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Electronics and Communication (ECE)",
+      "Information Technology"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "Networking (TCP/IP, CCNA Basics)",
+      "DSA"
+    ],
+    "good_to_have": [
+      "Protocols Knowledge",
+      "60% GPA"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment",
+    "Coding Interview",
+    "System Design Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1200000,
+    "max": 1800000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Engineer",
+    "Cisco",
+    "Networking",
+    "Python",
+    "TCP/IP",
+    "Fresher"
+  ],
+  "embedding_text": "Cisco, the global networking leader, is hiring Software Engineers across India. Candidates must have a minimum 60% GPA, strong knowledge of networking protocols, and proficiency in Python and DSA. The highly competitive selection process features an online assessment followed by coding and system design interviews.",
+  "filters": {
+    "role": "Software Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "Networking (TCP/IP, CCNA Basics)",
+      "DSA"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

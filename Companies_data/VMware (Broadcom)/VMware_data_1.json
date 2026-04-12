@@ -1,0 +1,86 @@
+
+{
+  "role_id": "vmware_broadcom_graduate_software_engineer_full-time",
+  "company": {
+    "name": "VMware (Broadcom)",
+    "industry": [
+      "Virtualization/Cloud",
+      "IT"
+    ],
+    "tags": [
+      "MNC",
+      "Cloud",
+      "Product-Based",
+      "Broadcom"
+    ]
+  },
+  "role": {
+    "title": "Graduate Software Engineer",
+    "category": "Software Development / Cloud",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E."
+    ],
+    "branches": [
+      "Computer Science",
+      "Electronics and Communication (ECE)"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "vSphere",
+      "ESXi",
+      "Python Scripting",
+      "Linux"
+    ],
+    "good_to_have": [
+      "60% Academic Score",
+      "Basic Networking Knowledge"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1000000,
+    "max": 1600000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Graduate Software Engineer",
+    "VMware",
+    "Broadcom",
+    "Cloud",
+    "Python",
+    "Linux",
+    "Fresher"
+  ],
+  "embedding_text": "VMware (Broadcom) is hiring Graduate Software Engineers across India. Candidates must have a minimum 60% academic score, basic networking knowledge, and strong proficiency in vSphere, ESXi, Linux, and Python scripting. The selection process involves an online assessment and technical and HR interviews.",
+  "filters": {
+    "role": "Graduate Software Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "vSphere",
+      "ESXi",
+      "Python Scripting",
+      "Linux"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

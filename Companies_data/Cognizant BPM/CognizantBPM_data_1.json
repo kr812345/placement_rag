@@ -1,0 +1,84 @@
+
+{
+  "role_id": "cognizant_bpm_bpm_developer_full-time",
+  "company": {
+    "name": "Cognizant BPM",
+    "industry": [
+      "IT Services",
+      "BPM"
+    ],
+    "tags": [
+      "MNC",
+      "IT Services",
+      "BPM"
+    ]
+  },
+  "role": {
+    "title": "BPM Developer",
+    "category": "Software Development / BPM",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "B.Sc"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Any Branch"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "SQL",
+      "RPA Basics"
+    ],
+    "good_to_have": [
+      "Strong Communication Skills",
+      "60%+ GPA"
+    ]
+  },
+  "selection_process": [
+    "Aptitude Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Low",
+  "salary": {
+    "min": 300000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "BPM Developer",
+    "Cognizant BPM",
+    "IT Services",
+    "Fresher"
+  ],
+  "embedding_text": "Cognizant BPM is hiring freshers for the BPM Developer role across India. Candidates must have a minimum 60% GPA, strong communication skills, and knowledge of Java, SQL, and RPA basics. The selection process involves an aptitude test followed by technical and HR interviews.",
+  "filters": {
+    "role": "BPM Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "SQL",
+      "RPA Basics"
+    ],
+    "difficulty": "Low"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
+

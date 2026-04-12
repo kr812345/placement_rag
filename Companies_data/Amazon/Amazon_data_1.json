@@ -1,0 +1,86 @@
+
+
+{
+  "role_id": "amazon_sde_intern_internship",
+  "company": {
+    "name": "Amazon",
+    "industry": [
+      "E-commerce",
+      "Cloud"
+    ],
+    "tags": [
+      "FAANG",
+      "Big Tech",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Software Development Engineer (SDE) Intern",
+    "category": "Software Development",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "Dual Degree",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Related Branches"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "DSA",
+      "OOP",
+      "AWS Basics"
+    ],
+    "good_to_have": [
+      "Coding Speed",
+      "Knowledge of Leadership Principles (LPs)"
+    ]
+  },
+  "selection_process": [
+    "Online Coding Assessment",
+    "Technical Interview (LP Focus)",
+    "Managerial / HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 80000,
+    "max": 110000,
+    "currency": "INR"
+  },
+  "tags": [
+    "SDE Intern",
+    "Amazon",
+    "Internship",
+    "FAANG",
+    "Leadership Principles"
+  ],
+  "embedding_text": "Amazon is hiring Software Development Engineer (SDE) Interns across India. Candidates must demonstrate strong knowledge of DSA, OOP, and AWS basics, as well as good coding speed. The rigorous selection process includes an online coding assessment followed by technical interviews with a strong focus on Amazon's Leadership Principles.",
+  "filters": {
+    "role": "SDE Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "DSA",
+      "OOP",
+      "AWS"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

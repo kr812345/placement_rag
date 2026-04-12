@@ -1,0 +1,83 @@
+
+{
+  "role_id": "byjus_backend_developer_full-time",
+  "company": {
+    "name": "Think & Learn (Byju's)",
+    "industry": [
+      "Edtech"
+    ],
+    "tags": [
+      "Edtech",
+      "Product-Based",
+      "Startup/Unicorn"
+    ]
+  },
+  "role": {
+    "title": "Backend Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "Django",
+      "AWS"
+    ],
+    "good_to_have": [
+      "Edtech-relevant Projects"
+    ]
+  },
+  "selection_process": [
+    "DSA Interview Round 1",
+    "DSA Interview Round 2",
+    "System Design Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 800000,
+    "max": 1400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Backend Developer",
+    "Byju's",
+    "Edtech",
+    "Python",
+    "Django"
+  ],
+  "embedding_text": "Think & Learn (Byju's) is hiring full-time Backend Developers across India. Candidates must demonstrate proficiency in Python, Django, and AWS, ideally backed by edtech-relevant projects. The rigorous selection process heavily focuses on DSA capabilities and system design.",
+  "filters": {
+    "role": "Backend Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "Django",
+      "AWS"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

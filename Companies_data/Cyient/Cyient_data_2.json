@@ -1,0 +1,87 @@
+
+{
+  "role_id": "cyient_power_electronics_engineer_full-time",
+  "company": {
+    "name": "Cyient",
+    "industry": [
+      "Engineering Services",
+      "IT Services"
+    ],
+    "tags": [
+      "Engineering Services",
+      "MNC",
+      "Service-Based"
+    ]
+  },
+  "role": {
+    "title": "Power Electronics Engineer",
+    "category": "Hardware / Engineering Services",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Electrical and Electronics Engineering (EEE)",
+      "Electronics and Communication (ECE)",
+      "Information Technology (IT)"
+    ],
+    "year": [
+      "Recent Graduates",
+      "Experienced"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "MATLAB/Simulink",
+      "Analog/Digital Circuits",
+      "RF",
+      "Power Electronics"
+    ],
+    "good_to_have": [
+      "Problem Solving",
+      "Project Management"
+    ]
+  },
+  "selection_process": [
+    "Resume Screening",
+    "Technical Interview",
+    "Leadership Assessment",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 400000,
+    "max": 800000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Power Electronics Engineer",
+    "Cyient",
+    "Engineering Services",
+    "MATLAB",
+    "Power Electronics"
+  ],
+  "embedding_text": "Cyient is hiring Power Electronics Engineers across India. Candidates must have a B.Tech in EEE, ECE, or IT, along with strong skills in MATLAB/Simulink, analog/digital circuits, RF, and power electronics. The meticulous selection process involves a resume screening, a technical interview, and a leadership assessment.",
+  "filters": {
+    "role": "Power Electronics Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "MATLAB/Simulink",
+      "Analog/Digital Circuits",
+      "RF",
+      "Power Electronics"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

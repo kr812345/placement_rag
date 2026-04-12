@@ -1,0 +1,86 @@
+
+{
+  "role_id": "amazon_sde_new_grad_full-time",
+  "company": {
+    "name": "Amazon",
+    "industry": [
+      "E-commerce",
+      "Cloud"
+    ],
+    "tags": [
+      "FAANG",
+      "Big Tech",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Software Development Engineer (New Grad)",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "Dual Degree",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "DSA",
+      "OOP",
+      "AWS Basics"
+    ],
+    "good_to_have": [
+      "Coding Speed",
+      "Knowledge of Leadership Principles (LPs)"
+    ]
+  },
+  "selection_process": [
+    "Online Coding Assessment",
+    "Technical Interview Round 1 (LP Focus)",
+    "Technical Interview Round 2 (LP Focus)",
+    "Technical Interview Round 3 (LP Focus)",
+    "Bar Raiser Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1500000,
+    "max": 4400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "SDE",
+    "New Grad",
+    "Amazon",
+    "FAANG",
+    "Leadership Principles"
+  ],
+  "embedding_text": "Amazon is hiring for the Software Development Engineer (New Grad) full-time role. The position requires strong problem-solving speed, knowledge of DSA, OOP, and AWS basics. Candidates must demonstrate Amazon's Leadership Principles. The selection process involves an online coding assessment and multiple technical interviews with behavioral components.",
+  "filters": {
+    "role": "Software Development Engineer (New Grad)",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "DSA",
+      "OOP",
+      "AWS"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

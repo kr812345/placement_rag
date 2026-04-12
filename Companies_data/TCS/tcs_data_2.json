@@ -1,0 +1,85 @@
+
+{
+  "role_id": "tcs_system_engineer_full-time",
+  "company": {
+    "name": "Tata Consultancy Services (TCS)",
+    "industry": [
+      "IT Services"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter"
+    ]
+  },
+  "role": {
+    "title": "System Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "DSA"
+    ],
+    "good_to_have": [
+      "Strong Communication"
+    ]
+  },
+  "selection_process": [
+    "TCS NQT Test",
+    "Technical Interview",
+    "Managerial Interview",
+    "HR Round"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 336000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "System Engineer",
+    "Ninja Profile",
+    "60% Academics Criteria"
+  ],
+  "embedding_text": "Tata Consultancy Services (TCS) is hiring System Engineers across India. Candidates need 60%+ academics with no backlogs and strong skills in C, C++, Java, Python, and DSA. The selection process includes the TCS NQT test followed by technical, managerial, and HR interviews.",
+  "filters": {
+    "role": "System Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "DSA"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

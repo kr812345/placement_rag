@@ -1,0 +1,82 @@
+
+{
+  "role_id": "l_and_t_infotech_lti_systems_engineer_full-time",
+  "company": {
+    "name": "L&T Infotech (LTI)",
+    "industry": [
+      "IT Services",
+      "IT Consulting"
+    ],
+    "tags": [
+      "MNC",
+      "IT Services",
+      "Service-Based"
+    ]
+  },
+  "role": {
+    "title": "Systems Engineer",
+    "category": "Software Development / IT",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "Salesforce"
+    ],
+    "good_to_have": [
+      "60% Academic Score"
+    ]
+  },
+  "selection_process": [
+    "GATE-based Initial Screening",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 350000,
+    "max": 500000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Systems Engineer",
+    "LTI",
+    "IT Services",
+    "Java",
+    "Salesforce",
+    "Fresher"
+  ],
+  "embedding_text": "L&T Infotech (LTI) is hiring Systems Engineers across India. Candidates must have a minimum 60% academic score and proficiency in Java and Salesforce. The selection process typically includes a GATE-based initial screening followed by technical and HR interviews.",
+  "filters": {
+    "role": "Systems Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "Salesforce"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

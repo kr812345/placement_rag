@@ -1,0 +1,85 @@
+
+{
+  "role_id": "supr_daily_full_stack_developer_full-time",
+  "company": {
+    "name": "Supr Daily",
+    "industry": [
+      "Logistics Tech"
+    ],
+    "tags": [
+      "Startup",
+      "Logistics",
+      "E-commerce"
+    ]
+  },
+  "role": {
+    "title": "Full-stack Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "React",
+      "Node.js",
+      "AWS"
+    ],
+    "good_to_have": [
+      "Startup Hustle",
+      "Personal Projects"
+    ]
+  },
+  "selection_process": [
+    "Hackathon",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR / Cultural Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 800000,
+    "max": 1400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Full-stack Developer",
+    "Supr Daily",
+    "Startup",
+    "Logistics Tech",
+    "React",
+    "Node.js"
+  ],
+  "embedding_text": "Supr Daily is a fast-paced logistics tech startup hiring Full-stack Developers across India. Candidates need a strong startup hustle, solid personal projects, and proficiency in React, Node.js, and AWS. The dynamic selection process includes a hackathon and multiple interview rounds.",
+  "filters": {
+    "role": "Full-stack Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "React",
+      "Node.js",
+      "AWS"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

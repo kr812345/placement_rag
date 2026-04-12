@@ -1,0 +1,84 @@
+
+{
+  "role_id": "cred_full_stack_developer_full-time",
+  "company": {
+    "name": "Cred",
+    "industry": [
+      "Fintech"
+    ],
+    "tags": [
+      "Startup/Unicorn",
+      "Fintech",
+      "Product-Based"
+    ]
+  },
+  "role": {
+    "title": "Full-stack Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "MCA"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "React Native",
+      "Go",
+      "PostgreSQL"
+    ],
+    "good_to_have": [
+      "Relevant Mobile/Web Projects"
+    ]
+  },
+  "selection_process": [
+    "Live Coding Round 1",
+    "Live Coding Round 2",
+    "Product Sense Interview",
+    "HR / Culture Fit Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1800000,
+    "max": 2800000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Full-stack Developer",
+    "Cred",
+    "Fintech",
+    "Go",
+    "React Native",
+    "PostgreSQL"
+  ],
+  "embedding_text": "Cred, a high-growth fintech unicorn, is hiring Full-stack Developers across India. Candidates must have strong mobile and web projects and demonstrate proficiency in React Native, Go, and PostgreSQL. The challenging selection process includes live coding rounds and a unique product sense interview.",
+  "filters": {
+    "role": "Full-stack Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "React Native",
+      "Go",
+      "PostgreSQL"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

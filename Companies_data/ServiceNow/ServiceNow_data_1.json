@@ -1,0 +1,85 @@
+
+{
+  "role_id": "servicenow_developer_admin_trainee_full-time",
+  "company": {
+    "name": "ServiceNow",
+    "industry": [
+      "IT Service Management",
+      "IT"
+    ],
+    "tags": [
+      "Product-Based",
+      "ITSM",
+      "Cloud",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "ServiceNow Developer/Admin Trainee",
+    "category": "Software Development / IT",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E."
+    ],
+    "branches": [
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates",
+      "Pre-final Students (RiseUp Program)"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "JavaScript",
+      "ITSM",
+      "Glide API",
+      "Workflows"
+    ],
+    "good_to_have": [
+      "ServiceNow CSA Certification"
+    ]
+  },
+  "selection_process": [
+    "Skill Assessment",
+    "Coding Challenge",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1000000,
+    "max": 1600000,
+    "currency": "INR"
+  },
+  "tags": [
+    "ServiceNow Developer",
+    "Admin Trainee",
+    "ServiceNow",
+    "ITSM",
+    "JavaScript",
+    "Fresher"
+  ],
+  "embedding_text": "ServiceNow is hiring Developer/Admin Trainees across India, often through the RiseUp program. Candidates must be skilled in JavaScript, ITSM, workflows, and the Glide API, and ideally hold a CSA certification. The comprehensive selection process involves a skill assessment, coding challenge, and multiple interviews.",
+  "filters": {
+    "role": "ServiceNow Developer/Admin Trainee",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "JavaScript",
+      "ITSM",
+      "Glide API",
+      "Workflows"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

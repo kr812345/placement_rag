@@ -1,0 +1,83 @@
+
+{
+  "role_id": "texas_instruments_analog_design_intern_internship",
+  "company": {
+    "name": "Texas Instruments",
+    "industry": [
+      "Semiconductors"
+    ],
+    "tags": [
+      "Semiconductor",
+      "Hardware",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Analog Design Intern",
+    "category": "Hardware / Embedded",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "Dual Degree"
+    ],
+    "branches": [
+      "Electronics and Communication (ECE)",
+      "Electrical and Electronics Engineering (EEE)",
+      "Related Branches"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Analog Electronics",
+      "SPICE"
+    ],
+    "good_to_have": [
+      "Strong Academics"
+    ]
+  },
+  "selection_process": [
+    "Technical Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 45000,
+    "max": 60000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Analog Design Intern",
+    "Texas Instruments",
+    "Internship",
+    "ECE",
+    "EEE",
+    "Semiconductors"
+  ],
+  "embedding_text": "Texas Instruments is hiring Analog Design Interns across India. Candidates must have strong academics in ECE or EEE and demonstrate proficiency in analog electronics and SPICE. The selection process includes a technical test followed by multiple interview rounds.",
+  "filters": {
+    "role": "Analog Design Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "Analog Electronics",
+      "SPICE"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

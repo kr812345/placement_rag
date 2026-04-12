@@ -1,0 +1,84 @@
+
+{
+  "role_id": "samsung_software_engineer_full-time",
+  "company": {
+    "name": "Samsung",
+    "industry": [
+      "Consumer Electronics",
+      "IT",
+      "Semiconductors"
+    ],
+    "tags": [
+      "Consumer Electronics",
+      "MNC",
+      "Big Tech"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E."
+    ],
+    "branches": [
+      "Computer Science",
+      "Electronics and Communication"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "DSA",
+      "C++",
+      "OS Concepts"
+    ],
+    "good_to_have": [
+      "Strong Coding Skills"
+    ]
+  },
+  "selection_process": [
+    "GSAT Aptitude Test",
+    "Coding Online Assessment",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1200000,
+    "max": 2000000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Engineer",
+    "Samsung",
+    "Consumer Electronics",
+    "C++",
+    "Fresher"
+  ],
+  "embedding_text": "Samsung is hiring freshers for the Software Engineer role across India. Candidates must have a B.Tech in CS or ECE, strong coding skills, and solid knowledge in DSA, C++, and OS concepts. The selection process involves the GSAT aptitude test, a coding round, two technical interviews, and an HR interview.",
+  "filters": {
+    "role": "Software Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "DSA",
+      "C++",
+      "OS Concepts"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
+

@@ -1,0 +1,78 @@
+
+{
+  "role_id": "ptron_hardware_engineer_full-time",
+  "company": {
+    "name": "pTron",
+    "industry": [
+      "Consumer Electronics"
+    ],
+    "tags": [
+      "IoT",
+      "Consumer Electronics",
+      "Audio"
+    ]
+  },
+  "role": {
+    "title": "Hardware Engineer",
+    "category": "Hardware / Embedded",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E."
+    ],
+    "branches": [
+      "Electronics and Communication (ECE)",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Embedded Systems",
+      "Bluetooth"
+    ],
+    "good_to_have": [
+      "Hardware Prototypes"
+    ]
+  },
+  "selection_process": [
+    "Resume Screening",
+    "Technical Demo",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 300000,
+    "max": 600000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Hardware Engineer",
+    "pTron",
+    "Consumer Electronics",
+    "ECE",
+    "Fresher"
+  ],
+  "embedding_text": "pTron is hiring ECE freshers for the full-time Hardware Engineer role. Candidates must have experience with embedded systems, Bluetooth technologies, and ideally a portfolio of hardware prototypes. The selection process involves resume screening, a technical demonstration, and an interview.",
+  "filters": {
+    "role": "Hardware Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Embedded Systems",
+      "Bluetooth"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

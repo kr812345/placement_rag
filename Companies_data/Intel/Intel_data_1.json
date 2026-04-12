@@ -1,0 +1,84 @@
+
+{
+  "role_id": "intel_hardware_engineer_intern_internship",
+  "company": {
+    "name": "Intel",
+    "industry": [
+      "Semiconductors"
+    ],
+    "tags": [
+      "Semiconductor",
+      "MNC",
+      "Hardware"
+    ]
+  },
+  "role": {
+    "title": "Hardware Engineer Intern",
+    "category": "Hardware / VLSI",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "Dual Degree"
+    ],
+    "branches": [
+      "Electronics and Communication",
+      "Electrical Engineering",
+      "VLSI Design",
+      "Related Branches"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "VLSI",
+      "Digital Design",
+      "Python"
+    ],
+    "good_to_have": [
+      "Core Electronics Knowledge"
+    ]
+  },
+  "selection_process": [
+    "Online Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 40000,
+    "max": 60000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Hardware Engineer Intern",
+    "Intel",
+    "Semiconductors",
+    "Internship",
+    "ECE"
+  ],
+  "embedding_text": "Intel is hiring Hardware Engineer Interns across India. Candidates must have strong core electronics knowledge with essential skills in VLSI, digital design, and Python. The internship selection process consists of an online test followed by multiple technical interview rounds.",
+  "filters": {
+    "role": "Hardware Engineer Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "VLSI",
+      "Digital Design",
+      "Python"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

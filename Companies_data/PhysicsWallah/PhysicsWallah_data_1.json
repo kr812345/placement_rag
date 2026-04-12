@@ -1,0 +1,82 @@
+
+{
+  "role_id": "physicswallah_full_stack_developer_full-time",
+  "company": {
+    "name": "PhysicsWallah",
+    "industry": [
+      "Edtech"
+    ],
+    "tags": [
+      "Edtech",
+      "Startup/Unicorn",
+      "Product-Based"
+    ]
+  },
+  "role": {
+    "title": "Full-stack Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "MERN Stack",
+      "Live Streaming Technologies"
+    ],
+    "good_to_have": [
+      "60%+ GPA",
+      "Quick Learner"
+    ]
+  },
+  "selection_process": [
+    "Coding Challenge",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 800000,
+    "max": 1400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Full-stack Developer",
+    "PhysicsWallah",
+    "Edtech",
+    "MERN Stack",
+    "Fresher"
+  ],
+  "embedding_text": "PhysicsWallah is looking for full-time Full-stack Developers across India. Candidates should have a minimum 60% academic record and must be proficient in the MERN stack and live streaming technologies. The selection process typically starts with a coding challenge followed by technical and HR interviews.",
+  "filters": {
+    "role": "Full-stack Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "MERN Stack",
+      "Live Streaming Technologies"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

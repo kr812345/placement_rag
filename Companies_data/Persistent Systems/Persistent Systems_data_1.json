@@ -1,0 +1,85 @@
+
+{
+  "role_id": "persistent_systems_software_engineer_trainee_full-time",
+  "company": {
+    "name": "Persistent Systems",
+    "industry": [
+      "Software Product Engineering"
+    ],
+    "tags": [
+      "IT Services",
+      "Engineering",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer Trainee",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "Cloud",
+      "Data Analytics",
+      "AI"
+    ],
+    "good_to_have": [
+      "Relevant Certifications",
+      "Campus Program Participation"
+    ]
+  },
+  "selection_process": [
+    "Hackathon",
+    "Skill Assessments",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 470000,
+    "max": 500000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Engineer Trainee",
+    "Persistent Systems",
+    "Software Engineering",
+    "Fresher"
+  ],
+  "embedding_text": "Persistent Systems is hiring freshers for the Software Engineer Trainee role across India. Candidates must have expertise in Java, cloud technologies, data analytics, and AI. Having relevant certifications or participating in campus programs is highly valued. The selection process includes a hackathon, rigorous skill assessments, and interviews.",
+  "filters": {
+    "role": "Software Engineer Trainee",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "Cloud",
+      "Data Analytics",
+      "AI"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

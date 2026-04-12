@@ -1,0 +1,89 @@
+
+
+{
+  "role_id": "qualcomm_vlsi_intern_internship",
+  "company": {
+    "name": "Qualcomm",
+    "industry": [
+      "Semiconductors"
+    ],
+    "tags": [
+      "Semiconductor",
+      "MNC",
+      "Hardware"
+    ]
+  },
+  "role": {
+    "title": "VLSI Intern",
+    "category": "Hardware / VLSI",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "Dual Degree"
+    ],
+    "branches": [
+      "Electronics and Communication",
+      "Electrical Engineering",
+      "VLSI Design",
+      "Related Branches"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "C",
+      "C++",
+      "Verilog",
+      "Embedded Systems"
+    ],
+    "good_to_have": [
+      "ECE Relevant Coursework"
+    ]
+  },
+  "selection_process": [
+    "Resume Screening",
+    "Aptitude Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 40000,
+    "max": 60000,
+    "currency": "INR"
+  },
+  "tags": [
+    "VLSI Intern",
+    "Qualcomm",
+    "Semiconductors",
+    "Internship",
+    "ECE"
+  ],
+  "embedding_text": "Qualcomm is hiring VLSI Interns across India. Candidates need a strong academic record with a 3.0+ GPA and relevant ECE coursework. Essential skills include C/C++, Verilog, and knowledge of embedded systems. The internship selection process consists of resume screening, an aptitude test, technical interviews, and an HR interview.",
+  "filters": {
+    "role": "VLSI Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "C",
+      "C++",
+      "Verilog",
+      "Embedded Systems"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

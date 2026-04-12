@@ -1,0 +1,82 @@
+
+{
+  "role_id": "nxp_semiconductors_asic_design_intern_internship",
+  "company": {
+    "name": "NXP Semiconductors",
+    "industry": [
+      "Semiconductors"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Hardware",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "ASIC Design Intern",
+    "category": "Hardware / VLSI",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "Dual Degree"
+    ],
+    "branches": [
+      "Electronics and Communication",
+      "Electrical Engineering",
+      "VLSI Design"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Verilog",
+      "SystemVerilog"
+    ],
+    "good_to_have": [
+      "Relevant VLSI Coursework"
+    ]
+  },
+  "selection_process": [
+    "Technical Screening",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 40000,
+    "max": 60000,
+    "currency": "INR"
+  },
+  "tags": [
+    "ASIC Design Intern",
+    "NXP",
+    "Semiconductors",
+    "VLSI",
+    "Internship"
+  ],
+  "embedding_text": "NXP Semiconductors is hiring ASIC Design Interns across India. Candidates are expected to have strong VLSI coursework along with proficiency in Verilog and SystemVerilog. The rigorous selection process involves technical screening followed by multiple technical and HR interviews.",
+  "filters": {
+    "role": "ASIC Design Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "Verilog",
+      "SystemVerilog"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

@@ -1,0 +1,81 @@
+
+{
+  "role_id": "reliance_jio_network_engineer_full-time",
+  "company": {
+    "name": "Reliance Jio",
+    "industry": [
+      "Telecom"
+    ],
+    "tags": [
+      "Telecom",
+      "Network",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Network Engineer",
+    "category": "Telecom / Networking",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E."
+    ],
+    "branches": [
+      "Electronics and Communication (ECE)",
+      "Electrical and Electronics Engineering (EEE)",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Networking",
+      "Python",
+      "Telecom Protocols"
+    ],
+    "good_to_have": [
+      "60%+ Academic Score"
+    ]
+  },
+  "selection_process": [
+    "Aptitude Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Low",
+  "salary": {
+    "min": 350000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Network Engineer",
+    "Reliance Jio",
+    "Telecom",
+    "ECE",
+    "Fresher"
+  ],
+  "embedding_text": "Reliance Jio is hiring ECE and EEE freshers with a minimum 60% academic score for the full-time Network Engineer role. Candidates must have solid knowledge of networking, telecom protocols, and Python. The selection process encompasses an aptitude test followed by technical and HR interviews.",
+  "filters": {
+    "role": "Network Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Networking",
+      "Python",
+      "Telecom Protocols"
+    ],
+    "difficulty": "Low"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
+

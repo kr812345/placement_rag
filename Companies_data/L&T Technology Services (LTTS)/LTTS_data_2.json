@@ -1,0 +1,82 @@
+
+{
+  "role_id": "ltts_vlsi_engineer_full-time",
+  "company": {
+    "name": "L&T Technology Services (LTTS)",
+    "industry": [
+      "Engineering R&D"
+    ],
+    "tags": [
+      "Engineering",
+      "MNC",
+      "Core Domain"
+    ]
+  },
+  "role": {
+    "title": "VLSI Engineer",
+    "category": "Hardware / VLSI",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Electronics and Communication",
+      "Electrical Engineering",
+      "VLSI Design"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Hardware Design",
+      "Embedded C"
+    ],
+    "good_to_have": [
+      "MATLAB",
+      "Project Experience in Core Domains"
+    ]
+  },
+  "selection_process": [
+    "Aptitude Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 400000,
+    "max": 450000,
+    "currency": "INR"
+  },
+  "tags": [
+    "VLSI",
+    "Engineer",
+    "LTTS",
+    "Engineering R&D",
+    "Core",
+    "Fresher"
+  ],
+  "embedding_text": "L&T Technology Services (LTTS) is hiring VLSI Engineers across India. Candidates are expected to have project experience in core domains and proficiency in hardware design, Embedded C, and MATLAB. The selection process involves an aptitude test, a technical interview, and an HR interview.",
+  "filters": {
+    "role": "VLSI Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Hardware Design",
+      "Embedded C",
+      "MATLAB"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

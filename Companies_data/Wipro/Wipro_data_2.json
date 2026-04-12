@@ -1,0 +1,81 @@
+
+{
+  "role_id": "wipro_developer_full-time",
+  "company": {
+    "name": "Wipro",
+    "industry": [
+      "IT Services"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter"
+    ]
+  },
+  "role": {
+    "title": "Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "C++",
+      "Java",
+      "Cloud Basics"
+    ],
+    "good_to_have": [
+      "Analytical Mindset"
+    ]
+  },
+  "selection_process": [
+    "Elite NLTH Test",
+    "Coding Round",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 350000,
+    "max": 500000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Developer",
+    "Wipro Elite NLTH",
+    "Fresher"
+  ],
+  "embedding_text": "Wipro is hiring Developers across India through the Elite NLTH test. Candidates are expected to have a 60%+ academic score, an analytical mindset, and proficiency in C++, Java, and cloud basics. The selection process involves an online test, a coding round, and interviews.",
+  "filters": {
+    "role": "Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "C++",
+      "Java",
+      "Cloud Basics"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

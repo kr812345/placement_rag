@@ -1,0 +1,84 @@
+
+{
+  "role_id": "upgrad_data_engineer_full-time",
+  "company": {
+    "name": "UpGrad",
+    "industry": [
+      "Edtech"
+    ],
+    "tags": [
+      "Edtech",
+      "Product-Based",
+      "Startup/Unicorn"
+    ]
+  },
+  "role": {
+    "title": "Data Engineer",
+    "category": "Data Science / Engineering",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Airflow",
+      "Snowflake",
+      "Python"
+    ],
+    "good_to_have": [
+      "ETL Pipelines"
+    ]
+  },
+  "selection_process": [
+    "SQL Online Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1000000,
+    "max": 1600000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Data Engineer",
+    "UpGrad",
+    "Edtech",
+    "Python",
+    "Snowflake",
+    "Airflow"
+  ],
+  "embedding_text": "UpGrad, a prominent edtech unicorn, is hiring full-time Data Engineers. Candidates are expected to have hands-on experience building ETL pipelines and strong technical skills in Python, Airflow, and Snowflake. The selection process evaluates candidates through an SQL online test followed by multiple interview rounds.",
+  "filters": {
+    "role": "Data Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Airflow",
+      "Snowflake",
+      "Python"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

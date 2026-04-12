@@ -1,0 +1,82 @@
+
+{
+  "role_id": "synopsys_verification_engineer_full-time",
+  "company": {
+    "name": "Synopsys",
+    "industry": [
+      "EDA Tools",
+      "Semiconductors"
+    ],
+    "tags": [
+      "EDA",
+      "MNC",
+      "Hardware"
+    ]
+  },
+  "role": {
+    "title": "Verification Engineer",
+    "category": "Hardware / VLSI",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "Dual Degree"
+    ],
+    "branches": [
+      "Electronics and Communication (ECE)",
+      "Electrical Engineering",
+      "VLSI Design"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "UVM",
+      "SystemVerilog"
+    ],
+    "good_to_have": [
+      "Strong VLSI Knowledge"
+    ]
+  },
+  "selection_process": [
+    "Aptitude Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1400000,
+    "max": 1800000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Verification Engineer",
+    "Synopsys",
+    "EDA",
+    "VLSI",
+    "Fresher"
+  ],
+  "embedding_text": "Synopsys is hiring freshers for the Verification Engineer role across India. Candidates must have strong VLSI knowledge and proficiency in Verification Methodologies like UVM and SystemVerilog. The rigorous selection process involves an aptitude test followed by multiple technical and HR interviews.",
+  "filters": {
+    "role": "Verification Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "UVM",
+      "SystemVerilog"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

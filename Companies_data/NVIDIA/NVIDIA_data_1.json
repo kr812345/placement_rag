@@ -1,0 +1,88 @@
+
+{
+  "role_id": "nvidia_software_hardware_engineer_full-time",
+  "company": {
+    "name": "NVIDIA",
+    "industry": [
+      "GPU / AI Hardware",
+      "Semiconductors",
+      "Technology"
+    ],
+    "tags": [
+      "Big Tech",
+      "Hardware",
+      "AI"
+    ]
+  },
+  "role": {
+    "title": "Software/Hardware Engineer",
+    "category": "Software/Hardware Engineering",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "Dual Degree"
+    ],
+    "branches": [
+      "Computer Science",
+      "Electronics and Communication",
+      "Electrical Engineering",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "CUDA",
+      "Python",
+      "DSA"
+    ],
+    "good_to_have": [
+      "AI/ML Projects",
+      "System Design"
+    ]
+  },
+  "selection_process": [
+    "Coding Online Assessment",
+    "System Design Interview",
+    "Technical Interview Rounds",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1800000,
+    "max": 3500000,
+    "currency": "INR"
+  },
+  "tags": [
+    "NVIDIA",
+    "CUDA",
+    "GPU",
+    "AI",
+    "Engineer"
+  ],
+  "embedding_text": "NVIDIA is hiring Software/Hardware Engineers across India. Candidates are expected to have AI/ML project experience along with strong skills in CUDA, Python, and DSA. The rigorous selection process typically involves a coding online assessment, system design interviews, and multiple technical rounds.",
+  "filters": {
+    "role": "Software/Hardware Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "CUDA",
+      "Python",
+      "DSA"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
+

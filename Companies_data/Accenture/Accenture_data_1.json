@@ -1,0 +1,83 @@
+
+
+{
+  "role_id": "accenture_associate_software_engineer_full-time",
+  "company": {
+    "name": "Accenture",
+    "industry": [
+      "IT Consulting"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter"
+    ]
+  },
+  "role": {
+    "title": "Associate Software Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "Java",
+      "Communication"
+    ],
+    "good_to_have": [
+      "Coding Proficiency",
+      "Soft Skills"
+    ]
+  },
+  "selection_process": [
+    "Cognitive Assessment",
+    "Coding Round",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 450000,
+    "max": 450000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Associate Software Engineer",
+    "Accenture",
+    "Fresher"
+  ],
+  "embedding_text": "Accenture is hiring Associate Software Engineers across India. Candidates are expected to have strong coding proficiency, soft skills, and expertise in Python, Java, and communication. The selection process consists of a cognitive assessment, a coding round, and technical and HR interviews.",
+  "filters": {
+    "role": "Associate Software Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "Java",
+      "Communication"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

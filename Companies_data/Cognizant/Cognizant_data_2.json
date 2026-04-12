@@ -1,0 +1,82 @@
+
+
+{
+  "role_id": "cognizant_genc_full-time",
+  "company": {
+    "name": "Cognizant",
+    "industry": [
+      "IT Services"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter"
+    ]
+  },
+  "role": {
+    "title": "GenC",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "Python",
+      "Aptitude"
+    ],
+    "good_to_have": [
+      "Teamwork",
+      "Strong Fundamentals"
+    ]
+  },
+  "selection_process": [
+    "Cognizant GenC Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 400000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "GenC",
+    "Cognizant",
+    "Fresher"
+  ],
+  "embedding_text": "Cognizant is hiring freshers for the GenC role across India. Candidates need strong fundamentals, teamwork skills, and proficiency in Java, Python, and aptitude. The selection process includes the Cognizant GenC online test followed by technical and HR interviews.",
+  "filters": {
+    "role": "GenC",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "Python",
+      "Aptitude"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

@@ -1,0 +1,83 @@
+
+
+{
+  "role_id": "hcltech_graduate_engineer_trainee_full-time",
+  "company": {
+    "name": "HCLTech",
+    "industry": [
+      "IT Services"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter",
+      "Tech"
+    ]
+  },
+  "role": {
+    "title": "Graduate Engineer Trainee",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "Java",
+      "Networking"
+    ],
+    "good_to_have": [
+      "Quick Learner"
+    ]
+  },
+  "selection_process": [
+    "Aptitude Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 360000,
+    "max": 450000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Graduate Engineer Trainee",
+    "GET",
+    "HCLTech",
+    "Fresher"
+  ],
+  "embedding_text": "HCLTech is hiring full-time Graduate Engineer Trainees across India. Candidates should have a maximum of 24 months of education gaps, be quick learners, and possess skills in Python, Java, and networking. The selection process includes an aptitude test, a technical interview, and an HR interview.",
+  "filters": {
+    "role": "Graduate Engineer Trainee",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "Java",
+      "Networking"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

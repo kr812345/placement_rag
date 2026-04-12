@@ -1,0 +1,88 @@
+
+{
+  "role_id": "ibm_associate_software_engineer_full-time",
+  "company": {
+    "name": "IBM",
+    "industry": [
+      "IT",
+      "Cloud"
+    ],
+    "tags": [
+      "MNC",
+      "IT Services",
+      "Tech"
+    ]
+  },
+  "role": {
+    "title": "Associate Software Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "Related Branches"
+    ],
+    "year": [
+      "2024",
+      "2025",
+      "2026"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "Python",
+      "DSA",
+      "Microservices"
+    ],
+    "good_to_have": [
+      "Strong Communication"
+    ]
+  },
+  "selection_process": [
+    "Online Coding Test",
+    "English Language Assessment",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 425000,
+    "max": 450000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Associate Software Engineer",
+    "IBM",
+    "Cloud",
+    "Fresher"
+  ],
+  "embedding_text": "IBM is hiring Associate Software Engineers from the 2024, 2025, and 2026 batches across India. Candidates must have a 60%+ or 6 CGPA with no backlogs, and proficiency in Java, Python, DSA, and microservices. The selection process encompasses an online coding and English test, along with technical and HR interviews.",
+  "filters": {
+    "role": "Associate Software Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "Python",
+      "DSA",
+      "Microservices"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

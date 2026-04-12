@@ -1,0 +1,83 @@
+
+{
+  "role_id": "zscaler_security_engineer_intern_internship",
+  "company": {
+    "name": "Zscaler",
+    "industry": [
+      "Cybersecurity"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "Cloud",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Security Engineer Intern",
+    "category": "Cybersecurity / Networking",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Remote / Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics and Communication (ECE)"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "Networking",
+      "Firewalls"
+    ],
+    "good_to_have": [
+      "Relevant Networking Projects"
+    ]
+  },
+  "selection_process": [
+    "Online Coding Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 40000,
+    "max": 60000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Security Engineer Intern",
+    "Zscaler",
+    "Cybersecurity",
+    "Networking",
+    "Internship"
+  ],
+  "embedding_text": "Zscaler is hiring Security Engineer Interns across India. Candidates must have a strong foundation in Python, networking, and firewalls, along with relevant ECE networking projects. The rigorous selection process involves an online coding test and multiple technical interview rounds.",
+  "filters": {
+    "role": "Security Engineer Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "Networking",
+      "Firewalls"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

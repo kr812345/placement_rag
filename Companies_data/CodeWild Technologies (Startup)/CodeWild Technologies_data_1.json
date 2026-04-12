@@ -1,0 +1,87 @@
+
+{
+  "role_id": "codewild_technologies_ml_engineer_intern_internship",
+  "company": {
+    "name": "CodeWild Technologies",
+    "industry": [
+      "AI/ML",
+      "IT"
+    ],
+    "tags": [
+      "Startup",
+      "AI",
+      "Machine Learning"
+    ]
+  },
+  "role": {
+    "title": "ML Engineer Intern",
+    "category": "Data Science / Machine Learning",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Remote / Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "MCA"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "Related Branches"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year",
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "TensorFlow",
+      "Git"
+    ],
+    "good_to_have": [
+      "ML Projects",
+      "60% GPA"
+    ]
+  },
+  "selection_process": [
+    "Coding Challenge",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 15000,
+    "max": 30000,
+    "currency": "INR"
+  },
+  "tags": [
+    "ML Engineer Intern",
+    "CodeWild Technologies",
+    "Startup",
+    "AI/ML",
+    "Internship"
+  ],
+  "embedding_text": "CodeWild Technologies is a startup hiring ML Engineer Interns across India. Candidates must have a minimum 60% GPA, hands-on ML projects, and proficiency in Python, TensorFlow, and Git. The selection process involves a coding challenge followed by a technical interview.",
+  "filters": {
+    "role": "ML Engineer Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Git"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

@@ -1,0 +1,91 @@
+
+
+{
+  "role_id": "google_software_engineer_intern_internship",
+  "company": {
+    "name": "Google",
+    "industry": [
+      "Technology"
+    ],
+    "tags": [
+      "FAANG",
+      "Big Tech",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer Intern",
+    "category": "Software Development",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "Dual Degree"
+    ],
+    "branches": [
+      "Computer Science",
+      "Mathematics and Computing",
+      "Electrical",
+      "Electronics",
+      "Related Branches"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "DSA",
+      "Graphs",
+      "Dynamic Programming",
+      "Python",
+      "C++",
+      "System Design Basics"
+    ],
+    "good_to_have": [
+      "Competitive Programming",
+      "Strong Projects"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "Technical Interview Round 3",
+    "Technical Interview Round 4"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 110000,
+    "max": 125000,
+    "currency": "INR"
+  },
+  "tags": [
+    "SWE Intern",
+    "Google",
+    "Summer Internship",
+    "FAANG"
+  ],
+  "embedding_text": "Google is hiring Software Engineer Interns. The internship expects candidates to have experience in coding contests, strong projects, and advanced knowledge of DSA including graphs and dynamic programming. Skills in Python, C++, and basic system design are required. The rigorous selection process involves an online assessment and 4-5 technical interviews.",
+  "filters": {
+    "role": "Software Engineer Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "DSA",
+      "Python",
+      "C++",
+      "System Design"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

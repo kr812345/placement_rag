@@ -1,0 +1,85 @@
+
+{
+  "role_id": "ola_electric_embedded_engineer_full-time",
+  "company": {
+    "name": "Ola Electric",
+    "industry": [
+      "EV",
+      "Automotive"
+    ],
+    "tags": [
+      "EV",
+      "Startup/Unicorn",
+      "Hardware",
+      "Product-Based"
+    ]
+  },
+  "role": {
+    "title": "Embedded Engineer",
+    "category": "Hardware / Embedded",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Electronics and Communication",
+      "Electrical and Electronics Engineering",
+      "Automobile Engineering"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "C++",
+      "BMS Protocols",
+      "RTOS"
+    ],
+    "good_to_have": [
+      "Relevant ECE EV Projects"
+    ]
+  },
+  "selection_process": [
+    "Hardware Online Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1000000,
+    "max": 1600000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Embedded Engineer",
+    "Ola Electric",
+    "EV",
+    "Hardware",
+    "C++",
+    "Fresher"
+  ],
+  "embedding_text": "Ola Electric, India's leading EV unicorn, is hiring Embedded Engineers. Candidates should have a strong electronics background with relevant EV projects and proficiency in C++, BMS protocols, and RTOS. The rigorous selection process involves a hardware test and multiple interview rounds.",
+  "filters": {
+    "role": "Embedded Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "C++",
+      "BMS Protocols",
+      "RTOS"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

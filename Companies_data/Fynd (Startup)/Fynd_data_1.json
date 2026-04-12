@@ -1,0 +1,84 @@
+
+{
+  "role_id": "fynd_backend_developer_full-time",
+  "company": {
+    "name": "Fynd",
+    "industry": [
+      "E-commerce Tech"
+    ],
+    "tags": [
+      "Startup",
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  "role": {
+    "title": "Backend Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Node.js",
+      "REST APIs",
+      "Docker"
+    ],
+    "good_to_have": [
+      "Active GitHub Repositories",
+      "Fast Learner"
+    ]
+  },
+  "selection_process": [
+    "Live Coding Round",
+    "System Design Interview",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 600000,
+    "max": 1000000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Backend Developer",
+    "Fynd",
+    "Startup",
+    "E-commerce",
+    "Node.js"
+  ],
+  "embedding_text": "Fynd is a fast-growing e-commerce startup hiring Backend Developers across India. Candidates must be fast learners with active GitHub repositories and have strong skills in Node.js, REST APIs, and Docker. The demanding selection process includes a live coding round and a system design interview.",
+  "filters": {
+    "role": "Backend Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "Docker"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

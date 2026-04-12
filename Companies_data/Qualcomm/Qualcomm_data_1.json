@@ -1,0 +1,87 @@
+
+{
+  "role_id": "qualcomm_embedded_engineer_full-time",
+  "company": {
+    "name": "Qualcomm",
+    "industry": [
+      "Semiconductors"
+    ],
+    "tags": [
+      "Semiconductor",
+      "MNC",
+      "Hardware"
+    ]
+  },
+  "role": {
+    "title": "Embedded Engineer",
+    "category": "Hardware / Embedded",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "Dual Degree"
+    ],
+    "branches": [
+      "Electronics and Communication",
+      "Electrical Engineering",
+      "Computer Science",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "C",
+      "C++",
+      "Verilog",
+      "Embedded Systems"
+    ],
+    "good_to_have": [
+      "ECE Relevant Coursework"
+    ]
+  },
+  "selection_process": [
+    "Resume Screening",
+    "Aptitude Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1200000,
+    "max": 2000000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Embedded Engineer",
+    "Qualcomm",
+    "Semiconductors",
+    "ECE",
+    "Fresher"
+  ],
+  "embedding_text": "Qualcomm is hiring Embedded Engineers across India. Candidates need a strong academic record with a 3.0+ GPA and relevant ECE coursework. Essential skills include C/C++, Verilog, and knowledge of embedded systems. The rigorous selection process consists of resume screening, an aptitude test, technical interviews, and an HR interview.",
+  "filters": {
+    "role": "Embedded Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "C",
+      "C++",
+      "Verilog",
+      "Embedded Systems"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

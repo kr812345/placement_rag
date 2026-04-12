@@ -1,0 +1,87 @@
+
+{
+  "role_id": "phonepe_ml_engineer_full-time",
+  "company": {
+    "name": "PhonePe",
+    "industry": [
+      "Payments",
+      "Fintech"
+    ],
+    "tags": [
+      "Fintech",
+      "Startup/Unicorn",
+      "Product-Based"
+    ]
+  },
+  "role": {
+    "title": "ML Engineer",
+    "category": "Data Science / Machine Learning",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "Ph.D."
+    ],
+    "branches": [
+      "Computer Science",
+      "Data Science",
+      "Statistics",
+      "Mathematics",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "TensorFlow",
+      "Fraud Detection"
+    ],
+    "good_to_have": [
+      "ML Models on GitHub",
+      "Kaggle Experience"
+    ]
+  },
+  "selection_process": [
+    "Kaggle-style Machine Learning Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1800000,
+    "max": 2800000,
+    "currency": "INR"
+  },
+  "tags": [
+    "ML Engineer",
+    "PhonePe",
+    "Fintech",
+    "Machine Learning",
+    "Python"
+  ],
+  "embedding_text": "PhonePe is looking for ML Engineers across India to work in the fintech and payments space. Candidates should showcase ML models on GitHub and have strong knowledge of Python, TensorFlow, and fraud detection techniques. The challenging selection process involves a Kaggle-style test and multiple interview rounds.",
+  "filters": {
+    "role": "ML Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Fraud Detection"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

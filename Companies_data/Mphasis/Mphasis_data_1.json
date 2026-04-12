@@ -1,0 +1,82 @@
+
+{
+  "role_id": "mphasis_software_engineer_full-time",
+  "company": {
+    "name": "Mphasis",
+    "industry": [
+      "IT Services"
+    ],
+    "tags": [
+      "MNC",
+      "Tech",
+      "IT"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "AWS",
+      "DSA"
+    ],
+    "good_to_have": [
+      "Problem Solving",
+      "Personal Projects"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 350000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Engineer",
+    "Mphasis",
+    "IT Services",
+    "Fresher"
+  ],
+  "embedding_text": "Mphasis is hiring freshers for the Software Engineer role across India. Candidates must have strong problem-solving skills, good projects, and proficiency in Python, AWS, and DSA. The selection process involves an online assessment and technical and HR interviews.",
+  "filters": {
+    "role": "Software Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "AWS",
+      "DSA"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

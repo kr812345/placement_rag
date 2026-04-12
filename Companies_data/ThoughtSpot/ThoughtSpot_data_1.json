@@ -1,0 +1,90 @@
+
+{
+  "role_id": "thoughtspot_software_engineer_new_grad_full-time",
+  "company": {
+    "name": "ThoughtSpot",
+    "industry": [
+      "Analytics/BI",
+      "Software"
+    ],
+    "tags": [
+      "Product-Based",
+      "Analytics",
+      "AI/BI",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer New Grad",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "SQL",
+      "Python",
+      "Data Visualization",
+      "Backend Development",
+      "DSA"
+    ],
+    "good_to_have": [
+      "Analytics Projects"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment (OA)",
+    "Coding Interview Round 1",
+    "Coding Interview Round 2",
+    "System Design Interview",
+    "Behavioral Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 2000000,
+    "max": 3000000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Engineer New Grad",
+    "ThoughtSpot",
+    "Analytics/BI",
+    "SQL",
+    "Python",
+    "Fresher"
+  ],
+  "embedding_text": "ThoughtSpot is hiring Software Engineer New Grads across India. Candidates must exhibit strong DSA foundations, relevant analytics projects, and proficiency in SQL, Python, data visualization, and backend development. The highly selective 4-5 stage process includes an online assessment followed by coding, system design, and behavioral interviews.",
+  "filters": {
+    "role": "Software Engineer New Grad",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "SQL",
+      "Python",
+      "Data Visualization",
+      "Backend Development",
+      "DSA"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

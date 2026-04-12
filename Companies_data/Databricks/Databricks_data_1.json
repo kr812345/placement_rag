@@ -1,0 +1,89 @@
+
+{
+  "role_id": "databricks_data_engineer_associate_full-time",
+  "company": {
+    "name": "Databricks",
+    "industry": [
+      "Data/AI Platform"
+    ],
+    "tags": [
+      "Product-Based",
+      "Big Data",
+      "AI/ML",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Data Engineer Associate",
+    "category": "Data Science / Engineering",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Spark",
+      "Delta Lake",
+      "Python",
+      "SQL",
+      "ETL"
+    ],
+    "good_to_have": [
+      "Scalable Pipeline Experience",
+      "Relevant Data Projects"
+    ]
+  },
+  "selection_process": [
+    "Coding Test (Spark Jobs)",
+    "Data Modeling Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1800000,
+    "max": 2800000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Data Engineer",
+    "Databricks",
+    "Big Data",
+    "Spark",
+    "Python",
+    "SQL",
+    "Fresher"
+  ],
+  "embedding_text": "Databricks is hiring Data Engineer Associates across India. Ideal candidates are Computer Science freshers with relevant data projects and experience building scalable pipelines using Spark, Delta Lake, Python, SQL, and ETL methodologies. The highly competitive selection process features a coding test focused on Spark jobs and a rigorous data modeling interview.",
+  "filters": {
+    "role": "Data Engineer Associate",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Spark",
+      "Delta Lake",
+      "Python",
+      "SQL",
+      "ETL"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

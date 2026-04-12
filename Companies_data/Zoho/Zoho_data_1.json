@@ -1,0 +1,84 @@
+
+{
+  "role_id": "zoho_software_developer_full-time",
+  "company": {
+    "name": "Zoho",
+    "industry": [
+      "Software Products"
+    ],
+    "tags": [
+      "Product-Based",
+      "SaaS",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Software Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Full-stack Development",
+      "JavaScript",
+      "DSA"
+    ],
+    "good_to_have": [
+      "Problem Solving",
+      "Object-Oriented Programming"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment",
+    "Coding Round 1",
+    "Coding Round 2",
+    "Advanced Coding Round",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 450000,
+    "max": 840000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Developer",
+    "Zoho",
+    "Product Based",
+    "Full-stack"
+  ],
+  "embedding_text": "Zoho is hiring Software Developers with strong coding and problem-solving skills. Candidates must excel in full-stack development, particularly using JavaScript, and be prepared to solve rigorous coding challenges. The highly competitive selection process includes 5+ intense coding rounds.",
+  "filters": {
+    "role": "Software Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Full-stack Development",
+      "JavaScript",
+      "DSA"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

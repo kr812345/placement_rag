@@ -1,0 +1,85 @@
+
+{
+  "role_id": "flipkart_sde_1_full-time",
+  "company": {
+    "name": "Flipkart",
+    "industry": [
+      "E-commerce"
+    ],
+    "tags": [
+      "Product-Based",
+      "E-commerce",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "SDE-1",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "Kafka",
+      "Search Algorithms"
+    ],
+    "good_to_have": [
+      "DSA Mastery",
+      "7+ CGPA"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment (OA)",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "System Design Interview",
+    "Hiring Manager / HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1800000,
+    "max": 2600000,
+    "currency": "INR"
+  },
+  "tags": [
+    "SDE-1",
+    "Flipkart",
+    "E-commerce",
+    "Java",
+    "Kafka"
+  ],
+  "embedding_text": "Flipkart is hiring SDE-1 software engineers across India. Candidates must have a minimum 7+ CGPA, mastery over DSA, and strong proficiency in Java, Kafka, and search algorithms. The rigorous selection process features an online assessment followed by four technical interview rounds.",
+  "filters": {
+    "role": "SDE-1",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "Kafka",
+      "Search Algorithms"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

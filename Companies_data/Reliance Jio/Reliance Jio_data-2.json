@@ -1,0 +1,83 @@
+
+{
+  "role_id": "reliance_jio_software_developer_full-time",
+  "company": {
+    "name": "Reliance Jio",
+    "industry": [
+      "Telecom"
+    ],
+    "tags": [
+      "Telecom",
+      "Network",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Software Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E."
+    ],
+    "branches": [
+      "Electronics and Communication (ECE)",
+      "Electrical and Electronics Engineering (EEE)",
+      "Computer Science",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Networking",
+      "Python",
+      "Telecom Protocols"
+    ],
+    "good_to_have": [
+      "60%+ Academic Score"
+    ]
+  },
+  "selection_process": [
+    "Aptitude Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Low",
+  "salary": {
+    "min": 350000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Developer",
+    "Reliance Jio",
+    "Telecom",
+    "ECE",
+    "Fresher"
+  ],
+  "embedding_text": "Reliance Jio is hiring freshers for the Software Developer role across India. Candidates must have a minimum 60% academic score and possess skills in networking, Python, and telecom protocols. The selection process encompasses an aptitude test followed by technical and HR interviews.",
+  "filters": {
+    "role": "Software Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Networking",
+      "Python",
+      "Telecom Protocols"
+    ],
+    "difficulty": "Low"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
+
+

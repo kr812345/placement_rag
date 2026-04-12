@@ -1,0 +1,82 @@
+
+{
+  "role_id": "ltts_embedded_engineer_full-time",
+  "company": {
+    "name": "L&T Technology Services (LTTS)",
+    "industry": [
+      "Engineering R&D"
+    ],
+    "tags": [
+      "Engineering",
+      "MNC",
+      "Core Domain"
+    ]
+  },
+  "role": {
+    "title": "Embedded Engineer",
+    "category": "Hardware / Embedded",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Electronics and Communication",
+      "Electrical Engineering",
+      "Electronics and Instrumentation",
+      "Mechanical Engineering"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Embedded C",
+      "MATLAB",
+      "Hardware Design"
+    ],
+    "good_to_have": [
+      "Project Experience in Core Domains"
+    ]
+  },
+  "selection_process": [
+    "Aptitude Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 400000,
+    "max": 450000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Embedded Engineer",
+    "LTTS",
+    "Engineering R&D",
+    "Core",
+    "Fresher"
+  ],
+  "embedding_text": "L&T Technology Services (LTTS) is hiring Embedded Engineers across India. Candidates are expected to have project experience in core domains and proficiency in Embedded C, MATLAB, and hardware design. The selection process involves an aptitude test, a technical interview, and an HR interview.",
+  "filters": {
+    "role": "Embedded Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Embedded C",
+      "MATLAB",
+      "Hardware Design"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

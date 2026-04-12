@@ -1,0 +1,82 @@
+
+
+{
+  "role_id": "tech_mahindra_associate_software_engineer_full-time",
+  "company": {
+    "name": "Tech Mahindra",
+    "industry": [
+      "IT Services"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter"
+    ]
+  },
+  "role": {
+    "title": "Associate Software Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "DSA",
+      "SQL",
+      "Communication"
+    ],
+    "good_to_have": [
+      "Adaptability"
+    ]
+  },
+  "selection_process": [
+    "Online Test",
+    "Group Discussion",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 325000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Associate Software Engineer",
+    "Tech Mahindra",
+    "Fresher"
+  ],
+  "embedding_text": "Tech Mahindra is hiring freshers for the Associate Software Engineer role across India. Candidates must have a 60%+ academic score, adaptability, and strong skills in DSA, SQL, and communication. The selection process involves an online test, group discussion, and interviews.",
+  "filters": {
+    "role": "Associate Software Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "DSA",
+      "SQL",
+      "Communication"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

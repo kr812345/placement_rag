@@ -1,0 +1,82 @@
+
+{
+  "role_id": "beam_game_developer_full-time",
+  "company": {
+    "name": "Beam",
+    "industry": [
+      "Gaming Tech"
+    ],
+    "tags": [
+      "Startup",
+      "Gaming",
+      "Tech"
+    ]
+  },
+  "role": {
+    "title": "Game Developer",
+    "category": "Software Development / Gaming",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "B.Sc"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Any Branch"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Unity",
+      "C#"
+    ],
+    "good_to_have": [
+      "Strong Portfolio"
+    ]
+  },
+  "selection_process": [
+    "Coding Round",
+    "Technical Demo",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 400000,
+    "max": 800000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Game Developer",
+    "Beam",
+    "Startup",
+    "Gaming Tech",
+    "Unity",
+    "C#"
+  ],
+  "embedding_text": "Beam, a gaming tech startup, is hiring Game Developers across India. Candidates must have a strong portfolio demonstrating their skills in Unity and C#. The selection process involves a coding round, a technical demo, and interviews.",
+  "filters": {
+    "role": "Game Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Unity",
+      "C#"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

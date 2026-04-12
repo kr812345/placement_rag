@@ -1,0 +1,88 @@
+
+
+{
+  "role_id": "tcs_ninja_digital_full-time",
+  "company": {
+    "name": "Tata Consultancy Services (TCS)",
+    "industry": [
+      "IT Services"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter",
+      "IT"
+    ]
+  },
+  "role": {
+    "title": "Ninja / Digital Profile",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "DSA"
+    ],
+    "good_to_have": [
+      "Strong Communication"
+    ]
+  },
+  "selection_process": [
+    "TCS NQT Test",
+    "Technical Interview",
+    "Managerial Interview",
+    "HR Round"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 336000,
+    "max": 700000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Ninja Profile",
+    "Digital Profile",
+    "60% Academics Criteria",
+    "TCS NQT"
+  ],
+  "embedding_text": "Tata Consultancy Services (TCS) is hiring for Ninja and Digital profiles across India. The selection process requires candidates to clear the TCS NQT test, followed by technical, managerial, and HR interviews. Candidates must have 60%+ academics with no backlogs and strong skills in C, C++, Java, Python, and DSA.",
+  "filters": {
+    "role": "Software Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "DSA"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

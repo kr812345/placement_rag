@@ -1,0 +1,83 @@
+
+{
+  "role_id": "groww_data_engineer_full-time",
+  "company": {
+    "name": "Groww",
+    "industry": [
+      "Fintech"
+    ],
+    "tags": [
+      "Startup/Unicorn",
+      "Fintech",
+      "Product-Based"
+    ]
+  },
+  "role": {
+    "title": "Data Engineer",
+    "category": "Data Science / Engineering",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "Spark",
+      "SQL"
+    ],
+    "good_to_have": [
+      "Relevant Data Pipeline Projects"
+    ]
+  },
+  "selection_process": [
+    "SQL Online Test",
+    "Technical Interview Round 1",
+    "ML/Data Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1400000,
+    "max": 2000000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Data Engineer",
+    "Groww",
+    "Fintech",
+    "Python",
+    "SQL"
+  ],
+  "embedding_text": "Groww is hiring Data Engineers across India. Candidates must have relevant hands-on experience with data pipeline projects and strong proficiency in Python, Spark, and SQL. The rigorous selection process involves an SQL test and an ML interview.",
+  "filters": {
+    "role": "Data Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "Spark",
+      "SQL"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

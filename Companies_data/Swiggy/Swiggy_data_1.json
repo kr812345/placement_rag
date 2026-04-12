@@ -1,0 +1,84 @@
+
+{
+  "role_id": "swiggy_backend_engineer_full-time",
+  "company": {
+    "name": "Swiggy",
+    "industry": [
+      "Foodtech"
+    ],
+    "tags": [
+      "Startup/Unicorn",
+      "Foodtech",
+      "Product-Based"
+    ]
+  },
+  "role": {
+    "title": "Backend Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Node.js",
+      "GraphQL",
+      "AWS"
+    ],
+    "good_to_have": [
+      "High-traffic System Projects"
+    ]
+  },
+  "selection_process": [
+    "Coding Round 1",
+    "Coding Round 2",
+    "System Design Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1600000,
+    "max": 2400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Backend Engineer",
+    "Swiggy",
+    "Foodtech",
+    "Node.js",
+    "AWS"
+  ],
+  "embedding_text": "Swiggy is a leading foodtech unicorn hiring Backend Engineers across India. Candidates must have experience with high-traffic system projects and strong proficiency in Node.js, GraphQL, and AWS. The rigorous selection process involves multiple coding rounds and a system design interview.",
+  "filters": {
+    "role": "Backend Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Node.js",
+      "GraphQL",
+      "AWS"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
+

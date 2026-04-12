@@ -1,0 +1,80 @@
+
+{
+  "role_id": "bharti_airtel_rf_engineer_intern_internship",
+  "company": {
+    "name": "Bharti Airtel",
+    "industry": [
+      "Telecom"
+    ],
+    "tags": [
+      "Telecom",
+      "Network",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "RF Engineer Intern",
+    "category": "Telecom / Networking",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Electronics and Communication (ECE)",
+      "Electrical and Electronics Engineering (EEE)"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "MATLAB",
+      "Wireless Communication"
+    ],
+    "good_to_have": [
+      "Relevant EEE Projects"
+    ]
+  },
+  "selection_process": [
+    "Online Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 20000,
+    "max": 30000,
+    "currency": "INR"
+  },
+  "tags": [
+    "RF Engineer",
+    "Internship",
+    "Bharti Airtel",
+    "Telecom",
+    "ECE"
+  ],
+  "embedding_text": "Bharti Airtel is hiring RF Engineer Interns across India. Candidates are expected to have a strong foundation in wireless communication, MATLAB, and relevant EEE projects. The internship selection process consists of an online test followed by technical and HR interviews.",
+  "filters": {
+    "role": "RF Engineer Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "MATLAB",
+      "Wireless Communication"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
+

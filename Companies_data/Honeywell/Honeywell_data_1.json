@@ -1,0 +1,83 @@
+
+{
+  "role_id": "honeywell_embedded_software_engineer_full-time",
+  "company": {
+    "name": "Honeywell",
+    "industry": [
+      "Industrial Automation"
+    ],
+    "tags": [
+      "Industrial Automation",
+      "Hardware",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Embedded Software Engineer",
+    "category": "Hardware / Embedded",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Electronics and Communication (ECE)",
+      "Electrical Engineering",
+      "Computer Science"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "C/C++",
+      "RTOS",
+      "Safety-Critical Systems"
+    ],
+    "good_to_have": [
+      "Reliability Focus"
+    ]
+  },
+  "selection_process": [
+    "Coding Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 600000,
+    "max": 1000000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Embedded Software Engineer",
+    "Honeywell",
+    "Industrial Automation",
+    "RTOS",
+    "C/C++",
+    "Fresher"
+  ],
+  "embedding_text": "Honeywell, a leader in Industrial Automation, is hiring Embedded Software Engineers across India. Candidates must have a strong reliability focus and solid proficiency in C/C++, RTOS, and safety-critical systems. The thorough selection process includes a coding test and multiple technical rounds.",
+  "filters": {
+    "role": "Embedded Software Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "C/C++",
+      "RTOS",
+      "Safety-Critical Systems"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

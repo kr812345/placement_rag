@@ -1,0 +1,85 @@
+
+
+{
+  "role_id": "microsoft_software_engineer_new_grad_full-time",
+  "company": {
+    "name": "Microsoft",
+    "industry": [
+      "Technology"
+    ],
+    "tags": [
+      "FAANG",
+      "Big Tech",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer (New Grad)",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "Dual Degree",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "DSA",
+      "C#",
+      "Java",
+      "Problem Solving"
+    ],
+    "good_to_have": [
+      "Personal Projects",
+      "Open Source Contributions"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "Behavioral Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1500000,
+    "max": 4500000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Engineer",
+    "New Grad",
+    "Microsoft",
+    "Big Tech"
+  ],
+  "embedding_text": "Microsoft is hiring for the Software Engineer (New Grad) role. Candidates should have a strong grasp of DSA (capable of solving LeetCode mediums), proficiency in C# or Java, and a good portfolio of projects or open-source contributions. The selection process consists of an online assessment followed by multiple technical and behavioral interviews.",
+  "filters": {
+    "role": "Software Engineer (New Grad)",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "DSA",
+      "C#",
+      "Java"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

@@ -1,0 +1,84 @@
+
+{
+  "role_id": "oracle_software_engineer_full-time",
+  "company": {
+    "name": "Oracle",
+    "industry": [
+      "Database",
+      "Cloud"
+    ],
+    "tags": [
+      "Product-Based",
+      "MNC",
+      "Big Tech"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech",
+      "MCA"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "SQL",
+      "DSA"
+    ],
+    "good_to_have": [
+      "Database Knowledge"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1000000,
+    "max": 2000000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Engineer",
+    "Oracle",
+    "Database",
+    "Cloud",
+    "Fresher"
+  ],
+  "embedding_text": "Oracle is hiring Software Engineers across India. Candidates must have a strong foundation in databases along with essential skills in Java, SQL, and DSA. The competitive selection process involves an online assessment and multiple technical interviews.",
+  "filters": {
+    "role": "Software Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "SQL",
+      "DSA"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

@@ -1,0 +1,82 @@
+
+
+{
+  "role_id": "capgemini_software_engineer_trainee_full-time",
+  "company": {
+    "name": "Capgemini",
+    "industry": [
+      "IT Consulting"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer Trainee",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "Cloud",
+      "DSA"
+    ],
+    "good_to_have": [
+      "Problem Solving"
+    ]
+  },
+  "selection_process": [
+    "Aptitude Test",
+    "Pseudocode Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 400000,
+    "max": 425000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Engineer Trainee",
+    "Capgemini",
+    "Fresher"
+  ],
+  "embedding_text": "Capgemini is hiring Software Engineer Trainees across India. Candidates need a 60%+ academic record, problem-solving skills, and proficiency in Java, Cloud, and DSA. The selection process features an aptitude test, a pseudocode round, and technical and HR interviews.",
+  "filters": {
+    "role": "Software Engineer Trainee",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "Cloud",
+      "DSA"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

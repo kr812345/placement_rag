@@ -1,0 +1,83 @@
+
+
+{
+  "role_id": "infosys_software_developer_full-time",
+  "company": {
+    "name": "Infosys",
+    "industry": [
+      "IT Services"
+    ],
+    "tags": [
+      "MNC",
+      "Mass Recruiter"
+    ]
+  },
+  "role": {
+    "title": "Software Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "All Branches"
+    ],
+    "year": [
+      "Any"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "Python",
+      "SQL",
+      "Problem Solving"
+    ],
+    "good_to_have": [
+      "Teamwork Skills"
+    ]
+  },
+  "selection_process": [
+    "InfyTQ Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 360000,
+    "max": 500000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Software Developer",
+    "InfyTQ",
+    "Fresher"
+  ],
+  "embedding_text": "Infosys is hiring Software Developers across India through the InfyTQ test. The role expects candidates to have a good academic record, teamwork skills, and strong proficiency in Java, Python, SQL, and problem-solving. The selection process includes an online test followed by technical and HR interviews.",
+  "filters": {
+    "role": "Software Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "Problem Solving"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

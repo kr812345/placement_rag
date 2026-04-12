@@ -1,0 +1,84 @@
+
+{
+  "role_id": "postman_backend_engineer_full-time",
+  "company": {
+    "name": "Postman",
+    "industry": [
+      "API Tools",
+      "SaaS"
+    ],
+    "tags": [
+      "Product-Based",
+      "API",
+      "Startup/Unicorn"
+    ]
+  },
+  "role": {
+    "title": "Backend Engineer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "JavaScript",
+      "REST APIs",
+      "Docker"
+    ],
+    "good_to_have": [
+      "Relevant API Projects"
+    ]
+  },
+  "selection_process": [
+    "Coding Challenge",
+    "System Design Interview",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1500000,
+    "max": 2400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Backend Engineer",
+    "Postman",
+    "API Tools",
+    "REST APIs",
+    "Docker"
+  ],
+  "embedding_text": "Postman is hiring Backend Engineers across India. Candidates must have hands-on API projects and strong expertise in JavaScript, REST APIs, and Docker. The highly competitive selection process features a coding challenge and a system design interview.",
+  "filters": {
+    "role": "Backend Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "JavaScript",
+      "REST APIs",
+      "Docker"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

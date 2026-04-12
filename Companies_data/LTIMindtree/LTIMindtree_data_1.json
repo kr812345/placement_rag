@@ -1,0 +1,81 @@
+
+{
+  "role_id": "ltimindtree_graduate_engineer_trainee_full-time",
+  "company": {
+    "name": "LTIMindtree",
+    "industry": [
+      "IT Consulting"
+    ],
+    "tags": [
+      "MNC",
+      "IT Services"
+    ]
+  },
+  "role": {
+    "title": "Graduate Engineer Trainee",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "Full-stack Development"
+    ],
+    "good_to_have": [
+      "Strong Academics",
+      "Adaptability"
+    ]
+  },
+  "selection_process": [
+    "Mindtree Assessment Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 400000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Graduate Engineer Trainee",
+    "LTIMindtree",
+    "IT Consulting",
+    "Fresher"
+  ],
+  "embedding_text": "LTIMindtree is hiring freshers for the Graduate Engineer Trainee role across India. Candidates must have strong academics, adaptability, and fundamental skills in Java and full-stack development. The selection process involves the Mindtree assessment test followed by technical and HR interviews.",
+  "filters": {
+    "role": "Graduate Engineer Trainee",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "Full-stack Development"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

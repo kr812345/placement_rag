@@ -1,0 +1,86 @@
+
+{
+  "role_id": "freshworks_full_stack_developer_full-time",
+  "company": {
+    "name": "Freshworks",
+    "industry": [
+      "SaaS"
+    ],
+    "tags": [
+      "Product-Based",
+      "SaaS",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Full-stack Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "React",
+      "Node.js",
+      "MySQL"
+    ],
+    "good_to_have": [
+      "GitHub Contributions",
+      "Active Open Source Contributor"
+    ]
+  },
+  "selection_process": [
+    "HackerRank Online Assessment",
+    "Pair Programming Interview",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 800000,
+    "max": 1300000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Full-stack Developer",
+    "Freshworks",
+    "SaaS",
+    "Product Based",
+    "React",
+    "Node.js"
+  ],
+  "embedding_text": "Freshworks, a leading SaaS company, is hiring full-time Full-stack Developers across India. Candidates must have a minimum 60% academic score, active GitHub contributions, and technical expertise in React, Node.js, and MySQL. The rigorous selection process features a HackerRank test and a pair programming interview.",
+  "filters": {
+    "role": "Full-stack Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "React",
+      "Node.js",
+      "MySQL"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
+

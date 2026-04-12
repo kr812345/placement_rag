@@ -1,0 +1,83 @@
+
+{
+  "role_id": "paytm_android_developer_full-time",
+  "company": {
+    "name": "Paytm",
+    "industry": [
+      "Fintech"
+    ],
+    "tags": [
+      "Product-Based",
+      "Fintech",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Android Developer",
+    "category": "Software Development / Mobile",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Kotlin",
+      "Jetpack",
+      "Payments SDK"
+    ],
+    "good_to_have": [
+      "App Development Portfolio"
+    ]
+  },
+  "selection_process": [
+    "Coding Round",
+    "UI/UX Technical Round",
+    "System Design Interview",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1000000,
+    "max": 1600000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Android Developer",
+    "Paytm",
+    "Fintech",
+    "Kotlin",
+    "Frontend"
+  ],
+  "embedding_text": "Paytm is hiring full-time Android Developers across India. Candidates must have a strong app development portfolio and proficiency in Kotlin, Jetpack, and Payments SDKs. The rigorous selection process includes a coding test and UI/UX technical rounds.",
+  "filters": {
+    "role": "Android Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Kotlin",
+      "Jetpack",
+      "Payments SDK"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

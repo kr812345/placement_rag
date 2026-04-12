@@ -1,0 +1,85 @@
+
+{
+  "role_id": "razorpay_backend_developer_full-time",
+  "company": {
+    "name": "Razorpay",
+    "industry": [
+      "Fintech"
+    ],
+    "tags": [
+      "Product-Based",
+      "Fintech",
+      "Startup/Unicorn"
+    ]
+  },
+  "role": {
+    "title": "Backend Developer",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Go",
+      "Kafka",
+      "AWS"
+    ],
+    "good_to_have": [
+      "Scalability Projects",
+      "Fast Coding"
+    ]
+  },
+  "selection_process": [
+    "DSA Round 1",
+    "DSA Round 2",
+    "System Design Interview",
+    "Behavioral Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1600000,
+    "max": 2400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Backend Developer",
+    "Razorpay",
+    "Fintech",
+    "Go",
+    "AWS"
+  ],
+  "embedding_text": "Razorpay, a leading fintech unicorn, is hiring Backend Developers across India. Candidates must demonstrate fast coding skills, scalability project experience, and strong proficiency in Go, Kafka, and AWS. The rigorous selection process features multiple DSA rounds and a behavioral interview.",
+  "filters": {
+    "role": "Backend Developer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Go",
+      "Kafka",
+      "AWS"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
+

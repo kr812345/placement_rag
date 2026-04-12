@@ -1,0 +1,93 @@
+
+
+{
+  "role_id": "google_swe_new_grad_full-time",
+  "company": {
+    "name": "Google",
+    "industry": [
+      "Technology"
+    ],
+    "tags": [
+      "FAANG",
+      "Big Tech",
+      "MNC"
+    ]
+  },
+  "role": {
+    "title": "Software Engineer (New Grad)",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "Dual Degree",
+      "M.Tech",
+      "MCA"
+    ],
+    "branches": [
+      "Computer Science",
+      "Mathematics and Computing",
+      "Electrical",
+      "Electronics",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "DSA",
+      "Graphs",
+      "Dynamic Programming",
+      "Python",
+      "C++",
+      "System Design Basics"
+    ],
+    "good_to_have": [
+      "Competitive Programming",
+      "Strong Projects"
+    ]
+  },
+  "selection_process": [
+    "Online Assessment",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "Technical Interview Round 3",
+    "Technical Interview Round 4",
+    "Technical Interview Round 5"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1800000,
+    "max": 3500000,
+    "currency": "INR"
+  },
+  "tags": [
+    "SWE",
+    "New Grad",
+    "Google",
+    "FAANG"
+  ],
+  "embedding_text": "Google is hiring for the Software Engineer (New Grad) full-time role. The position requires strong problem-solving skills, competitive programming experience, and proficiency in advanced DSA, Python, C++, and basic system design. The challenging selection process includes an online assessment followed by 4-5 technical interviews.",
+  "filters": {
+    "role": "Software Engineer (New Grad)",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "DSA",
+      "Python",
+      "C++",
+      "System Design"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

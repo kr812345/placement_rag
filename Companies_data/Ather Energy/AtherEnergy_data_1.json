@@ -1,0 +1,85 @@
+
+{
+  "role_id": "ather_energy_firmware_engineer_full-time",
+  "company": {
+    "name": "Ather Energy",
+    "industry": [
+      "EV",
+      "Automotive"
+    ],
+    "tags": [
+      "EV",
+      "Startup/Unicorn",
+      "Hardware",
+      "Product-Based"
+    ]
+  },
+  "role": {
+    "title": "Firmware Engineer",
+    "category": "Hardware / Embedded",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "M.Tech"
+    ],
+    "branches": [
+      "Electronics and Communication",
+      "Electrical Engineering",
+      "Automobile Engineering"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Embedded C",
+      "CAN Bus",
+      "MATLAB"
+    ],
+    "good_to_have": [
+      "Battery Management Experience"
+    ]
+  },
+  "selection_process": [
+    "Technical Demo",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 1000000,
+    "max": 1500000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Firmware Engineer",
+    "Ather Energy",
+    "EV",
+    "Hardware",
+    "Embedded C",
+    "Fresher"
+  ],
+  "embedding_text": "Ather Energy is hiring Firmware Engineers across India. Candidates must have experience with battery management and strong proficiency in Embedded C, CAN bus, and MATLAB. The rigorous selection process features a practical technical demo and multiple interview rounds.",
+  "filters": {
+    "role": "Firmware Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Embedded C",
+      "CAN Bus",
+      "MATLAB"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

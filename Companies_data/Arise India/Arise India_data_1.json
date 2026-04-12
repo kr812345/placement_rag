@@ -1,0 +1,78 @@
+
+{
+  "role_id": "arise_india_power_engineer_fresher_full-time",
+  "company": {
+    "name": "Arise India",
+    "industry": [
+      "Power Electronics"
+    ],
+    "tags": [
+      "Power",
+      "Electronics",
+      "Manufacturing"
+    ]
+  },
+  "role": {
+    "title": "Power Engineer (Fresher)",
+    "category": "Hardware / Electrical",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "Diploma"
+    ],
+    "branches": [
+      "Electrical and Electronics Engineering (EEE)"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Power Electronics",
+      "PCB Design"
+    ],
+    "good_to_have": [
+      "EEE Basics",
+      "Hands-on Experience"
+    ]
+  },
+  "selection_process": [
+    "Technical Test",
+    "Technical Interview",
+    "HR Interview"
+  ],
+  "difficulty": "Low",
+  "salary": {
+    "min": 200000,
+    "max": 400000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Power Engineer",
+    "Arise India",
+    "Power Electronics",
+    "EEE",
+    "Fresher"
+  ],
+  "embedding_text": "Arise India is hiring freshers for the Power Engineer role. Candidates are expected to have strong EEE basics, hands-on experience, and skills in power electronics and PCB design. The selection process involves a technical test and interviews.",
+  "filters": {
+    "role": "Power Engineer (Fresher)",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Power Electronics",
+      "PCB Design"
+    ],
+    "difficulty": "Low"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

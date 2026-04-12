@@ -1,0 +1,85 @@
+
+{
+  "role_id": "meesho_sde_intern_internship",
+  "company": {
+    "name": "Meesho",
+    "industry": [
+      "E-commerce"
+    ],
+    "tags": [
+      "Startup/Unicorn",
+      "E-commerce",
+      "Product-Based"
+    ]
+  },
+  "role": {
+    "title": "SDE Intern",
+    "category": "Software Development",
+    "type": "Internship",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "All Branches"
+    ],
+    "year": [
+      "Pre-final Year",
+      "Penultimate Year"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Java",
+      "Spring Boot",
+      "Redis"
+    ],
+    "good_to_have": [
+      "60% GPA",
+      "E-commerce Projects"
+    ]
+  },
+  "selection_process": [
+    "LeetCode Online Assessment",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "Technical/HR Interview"
+  ],
+  "difficulty": "High",
+  "salary": {
+    "min": 80000,
+    "max": 100000,
+    "currency": "INR"
+  },
+  "tags": [
+    "SDE Intern",
+    "Meesho",
+    "E-commerce",
+    "Internship",
+    "Java"
+  ],
+  "embedding_text": "Meesho is looking for SDE Interns across India. Candidates must have a minimum 60% GPA, relevant e-commerce projects, and strong proficiency in Java, Spring Boot, and Redis. The highly competitive selection process includes a LeetCode style online assessment followed by 3 interview rounds.",
+  "filters": {
+    "role": "SDE Intern",
+    "type": "Internship",
+    "location": "Pan India",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Redis"
+    ],
+    "difficulty": "High"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}

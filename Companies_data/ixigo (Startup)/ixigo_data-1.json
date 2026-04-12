@@ -1,0 +1,85 @@
+
+{
+  "role_id": "ixigo_data_engineer_full-time",
+  "company": {
+    "name": "ixigo",
+    "industry": [
+      "Travel Tech"
+    ],
+    "tags": [
+      "Startup",
+      "Product-Based",
+      "Data"
+    ]
+  },
+  "role": {
+    "title": "Data Engineer",
+    "category": "Data Science / Engineering",
+    "type": "Full-time",
+    "location": [
+      "Pan India"
+    ],
+    "mode": "Onsite / Hybrid"
+  },
+  "eligibility": {
+    "degrees": [
+      "B.Tech",
+      "B.E.",
+      "MCA",
+      "M.Tech"
+    ],
+    "branches": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "Related Branches"
+    ],
+    "year": [
+      "Recent Graduates"
+    ]
+  },
+  "skills": {
+    "must_have": [
+      "Python",
+      "Spark",
+      "SQL"
+    ],
+    "good_to_have": [
+      "Relevant Data Projects",
+      "DSA"
+    ]
+  },
+  "selection_process": [
+    "DSA Online Test",
+    "Technical Interview Round 1",
+    "Technical Interview Round 2",
+    "HR Interview"
+  ],
+  "difficulty": "Medium",
+  "salary": {
+    "min": 1000000,
+    "max": 1500000,
+    "currency": "INR"
+  },
+  "tags": [
+    "Data Engineer",
+    "ixigo",
+    "Travel Tech",
+    "Startup",
+    "Python"
+  ],
+  "embedding_text": "ixigo, a leading travel tech startup, is hiring Data Engineers across India. Candidates are expected to have strong data projects and master core skills such as Python, Spark, and SQL. The selection process challenges candidates with a DSA online test followed by technical and HR interviews.",
+  "filters": {
+    "role": "Data Engineer",
+    "type": "Full-time",
+    "location": "Pan India",
+    "skills": [
+      "Python",
+      "Spark",
+      "SQL"
+    ],
+    "difficulty": "Medium"
+  },
+  "source": "Career Page",
+  "last_updated": "2026-04"
+}
