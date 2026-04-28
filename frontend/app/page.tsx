@@ -5,13 +5,14 @@ import { useState } from "react";
 import { AuthLogin } from "@/components/AuthLogin";
 import { ChatMode } from "@/components/ChatMode";
 import { SearchMode } from "@/components/SearchMode";
-import { Bot, Search, LogOut, Loader2, Menu, X } from "lucide-react";
+import { ApplicationsMode } from "@/components/ApplicationsMode";
+import { Bot, Search, LogOut, Loader2, Menu, X, Mail } from "lucide-react";
 import { signOut } from "next-auth/react";
 import Image from "next/image";
 
 export default function Home() {
   const { data: session, status } = useSession();
-  const [activeTab, setActiveTab] = useState<"chat" | "search">("chat");
+  const [activeTab, setActiveTab] = useState<"chat" | "search" | "applications">("chat");
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   if (status === "loading") {
@@ -22,10 +23,10 @@ export default function Home() {
     );
   }
 
-  // Temporarily bypass authentication check
-  // if (status === "unauthenticated" || !session) {
-  //   return <AuthLogin />;
-  // }
+  // Re-enable authentication check
+  if (status === "unauthenticated" || !session) {
+    return <AuthLogin />;
+  }
 
   return (
     <div className="flex h-[100dvh] bg-gradient-to-br from-[#fff6fb] via-[#f4f2fc] to-[#e4e8f8] text-[#111111] overflow-hidden relative w-full p-0 md:p-3 lg:p-4 gap-0 md:gap-4">
@@ -84,6 +85,18 @@ export default function Home() {
             <Search className="w-[18px] h-[18px]" />
             <span>Explore Roles</span>
           </button>
+
+          <button 
+            onClick={() => {
+              setActiveTab("applications");
+              setIsMobileMenuOpen(false);
+            }}
+            className={`flex items-center gap-2.5 px-3 py-2.5 rounded-xl transition-all text-sm font-medium
+              ${activeTab === "applications" ? "bg-white/80 shadow-sm text-[var(--color-du-purple)] border border-white/60" : "text-[#555] hover:bg-white/50 hover:text-[#111]"}`}
+          >
+            <Mail className="w-[18px] h-[18px]" />
+            <span>Track Applications</span>
+          </button>
         </div>
         
         <div className="mt-auto flex flex-col gap-2 pt-4 border-t border-white/40">
@@ -120,12 +133,16 @@ export default function Home() {
               >
                 <Menu className="w-5 h-5" />
               </button>
-             <span className="font-bold tracking-tight text-[16px] text-[#111]">{activeTab === "chat" ? "AI Assistant" : "Explore Roles"}</span>
+             <span className="font-bold tracking-tight text-[16px] text-[#111]">
+               {activeTab === "chat" ? "AI Assistant" : activeTab === "search" ? "Explore Roles" : "Track Applications"}
+             </span>
           </div>
         </div>
 
         <div className="flex-1 overflow-hidden relative">
-          {activeTab === "chat" ? <ChatMode /> : <SearchMode />}
+          {activeTab === "chat" && <ChatMode />}
+          {activeTab === "search" && <SearchMode />}
+          {activeTab === "applications" && <ApplicationsMode />}
         </div>
       </main>
       

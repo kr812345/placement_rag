@@ -1,12 +1,13 @@
 import { AuthOptions, DefaultSession } from "next-auth";
 import GoogleProvider from "next-auth/providers/google";
 
-// Extend the default session type to include custom fields like 'id'
 declare module "next-auth" {
   interface Session {
     user: {
       id: string;
     } & DefaultSession["user"];
+    accessToken?: string;
+    refreshToken?: string;
   }
 }
 
@@ -15,6 +16,14 @@ export const authOptions: AuthOptions = {
     GoogleProvider({
       clientId: process.env.GOOGLE_CLIENT_ID || "",
       clientSecret: process.env.GOOGLE_CLIENT_SECRET || "",
+      authorization: {
+        params: {
+          scope: "openid email profile https://www.googleapis.com/auth/gmail.modify",
+          prompt: "consent",
+          access_type: "offline",
+          response_type: "code"
+        }
+      }
     }),
   ],
   session: {
@@ -30,9 +39,12 @@ export const authOptions: AuthOptions = {
     },
     async jwt({ token, user, account }) {
       // When the user signs in, you can store extra data in the JWT token
+      if (account) {
+        token.accessToken = account.access_token;
+        token.refreshToken = account.refresh_token;
+      }
       if (user) {
         token.id = user.id;
-        // token.role = user.role; // Example of adding roles
       }
       return token;
     },
@@ -41,11 +53,10 @@ export const authOptions: AuthOptions = {
       if (session.user) {
         session.user.id = token.id as string;
       }
+      session.accessToken = token.accessToken as string | undefined;
+      session.refreshToken = token.refreshToken as string | undefined;
       return session;
     }
-  },
-  pages: {
-    signIn: "/login",
   },
   secret: process.env.NEXTAUTH_SECRET,
 };

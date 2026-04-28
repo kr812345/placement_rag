@@ -35,8 +35,8 @@ async def explore_roles(query: Optional[str] = Query(None, description="Search t
     results = []
     
     if not query or not query.strip():
-        # Return default top 20 latest roles from memory
-        docs = retriever_instance.documents[:20]
+        # Return top 500 roles to ensure autocomplete list is comprehensive
+        docs = retriever_instance.documents[:500]
         for doc in docs:
             results.append(format_role(doc))
         return results

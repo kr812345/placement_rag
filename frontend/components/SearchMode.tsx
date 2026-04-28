@@ -26,7 +26,10 @@ export function SearchMode() {
     setIsModalOpen(true);
     setIsModalLoading(true);
     try {
-      const res = await fetch(`http://127.0.0.1:8000/search/${roleId}`);
+      const baseUrl = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
+      const res = await fetch(`${baseUrl}/search/${roleId}`, {
+        headers: { "ngrok-skip-browser-warning": "true" }
+      });
       if (res.ok) {
         const data = await res.json();
         setSelectedRole(data);
@@ -51,11 +54,14 @@ export function SearchMode() {
         setIsLoading(true);
         try {
           // If query is empty, it will drop the query parameter appropriately on backend
+          const baseUrl = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
           const url = query.trim() 
-            ? `http://127.0.0.1:8000/search/?query=${encodeURIComponent(query)}`
-            : `http://127.0.0.1:8000/search/`;
+            ? `${baseUrl}/search/?query=${encodeURIComponent(query)}`
+            : `${baseUrl}/search/`;
             
-          const res = await fetch(url);
+          const res = await fetch(url, {
+            headers: { "ngrok-skip-browser-warning": "true" }
+          });
           const data = await res.json();
           setRoles(data || []);
         } catch (error) {

@@ -31,7 +31,10 @@ export function ChatMode() {
     setIsModalOpen(true);
     setIsModalLoading(true);
     try {
-      const res = await fetch(`http://127.0.0.1:8000/search/${roleId}`);
+      const baseUrl = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
+      const res = await fetch(`${baseUrl}/search/${roleId}`, {
+        headers: { "ngrok-skip-browser-warning": "true" }
+      });
       if (res.ok) setSelectedRole(await res.json());
       else setSelectedRole(null);
     } catch { setSelectedRole(null); }
@@ -60,9 +63,13 @@ export function ChatMode() {
     setIsLoading(true);
 
     try {
-      const res = await fetch("http://127.0.0.1:8000/ask/", {
+      const baseUrl = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
+      const res = await fetch(`${baseUrl}/ask/`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { 
+          "Content-Type": "application/json",
+          "ngrok-skip-browser-warning": "true"
+        },
         body: JSON.stringify({ query: queryText })
       });
       

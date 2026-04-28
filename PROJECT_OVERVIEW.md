@@ -9,14 +9,15 @@
 - **Frontend:** Next.js 15, TypeScript, Tailwind CSS v4, Framer Motion
 - **Backend:** FastAPI, Python 3.12, Uvicorn
 - **AI & ML:** Google Gemini 2.5 Flash (via `google-genai`), Sentence Transformers (`all-MiniLM-L6-v2`)
-- **Vector Database:** FAISS (Local persistent index)
+- **Database:** FAISS (Local persistent index), SQLite/SQLAlchemy (Relational Data)
 - **Authentication:** NextAuth.js (Google OAuth)
+- **Event-Driven Services:** Google Cloud Pub/Sub (Gmail Push Notifications)
 
 ---
 
 ## ⚙️ Detailed Workflow & Architecture
 
-The application operates across three primary workflows: the offline data ingestion process, the online search mechanism, and the online AI chat process.
+The application operates across four primary workflows: offline data ingestion, online role search, online AI chat, and the automated job application tracking system.
 
 ### 1. Data Ingestion & Indexing Pipeline (Offline)
 This process builds the foundation of the RAG system by converting raw JSON files into a searchable vector database.
@@ -51,23 +52,41 @@ This feature allows users to semantically search for specific job roles based on
 4. **Data Formatting:** The matched records (including their match percentage/score based on L2 distance) are mapped to a UI-friendly dictionary schema.
 5. **UI Rendering:** The Next.js frontend renders glassmorphism cards for each result. Clicking a card fetches its full profile via `/search/{role_id}`.
 
+### 4. Job Application Tracking Workflow (Event-Driven)
+This feature allows students to apply for roles directly and leverages the Gmail API to automatically track recruiter replies.
+
+1. **Email Dispatch:** Students draft applications in the `ApplicationsMode` interface. The backend uses their Google OAuth token to send the email and subscribes their inbox to a Google Cloud Pub/Sub topic via the Gmail `watch()` API.
+2. **Database Tracking:** The thread ID and application details are saved in the relational database (SQLite via SQLAlchemy).
+3. **Webhook Notifications:** When a recruiter replies, Gmail pushes a notification to the Pub/Sub topic, which triggers the backend `/webhooks/gmail` endpoint.
+4. **History Sync & Filtering:** The backend fetches the latest inbox changes using the `get_history` API, matching them to tracked application threads while filtering out emails sent by the student.
+5. **AI Status Classification:** The new recruiter reply is passed to Gemini 2.5 Flash, which categorizes the email as `Selected`, `Rejected`, `Interview`, `Online Assessment`, or `Unclear`. The database and frontend UI are updated instantly.
+6. **Token Resilience:** The system automatically refreshes Google OAuth tokens during background processing to ensure uninterrupted tracking.
+
 ---
 
 ## 📁 Component Breakdown
 
 ### Backend (`/backend`)
-- **`main.py`:** Initializes the FastAPI app, integrates CORS, and maps the `/ask` and `/search` routers.
-- **`app/routes/ask.py`:** Handles AI chat requests.
-- **`app/routes/search.py`:** Handles semantic queries and role detail lookups.
-- **`app/services/`:** Contains core business logic (RAG query formatting, FAISS retrieval layer, document processing).
-- **`index_data.py`:** The primary ETL pipeline script for managing updates to company data.
+- **`main.py`:** Initializes the FastAPI app, configures CORS, initializes the database, and mounts all routers.
+- **`app/routes/`:** 
+  - `ask.py` & `search.py`: Handle RAG and vector queries.
+  - `applications.py`: Handles sending application emails and fetching tracking history.
+  - `webhooks.py`: Receives Google Cloud Pub/Sub events for inbox changes.
+- **`app/services/`:** 
+  - Contains core logic (`rag_service.py`, `retriever.py`).
+  - `email_service.py`: Gmail API integration (send email, watch inbox, fetch history).
+  - `webhook_handler.py`: Parses push notifications and matches threads.
+  - `classifier.py`: Prompts Gemini to categorize recruiter replies.
+- **`app/db/`:** SQLAlchemy setup (`database.py`) and schema definitions (`models.py`).
+- **`index_data.py`:** The primary ETL pipeline script for managing updates to company vector data.
 
 ### Frontend (`/frontend`)
 - **`app/page.tsx`:** The root layout utilizing a sidebar navigation to switch between the "Chat" and "Search" workspaces. Features mobile responsiveness and frosted glass styling.
 - **`components/`:**
   - **`ChatMode`**: Implements the user-facing interface for interacting with the AI Assistant.
   - **`SearchMode`**: Implements the user-facing interface for searching and browsing role cards.
-  - **`AuthLogin`**: Secures access via Google NextAuth integration.
+  - **`ApplicationsMode`**: The tracking dashboard where students can draft emails and monitor AI-classified application statuses.
+  - **`AuthLogin`**: Secures access and requests Gmail modification permissions via Google NextAuth.
 
 ---
 
