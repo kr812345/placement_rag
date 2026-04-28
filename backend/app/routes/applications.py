@@ -13,9 +13,14 @@ async def send_application(req: EmailSendRequest, db: Session = Depends(get_db))
     try:
         credentials = GmailService.get_credentials(req.access_token, req.refresh_token)
         
-        # 1. Send the email
+        # 1. Send the email with optional resume
         result = GmailService.send_application_email(
-            credentials, req.to_email, req.subject, req.body
+            credentials, 
+            req.to_email, 
+            req.subject, 
+            req.body,
+            req.resume_base64,
+            req.resume_filename
         )
         
         # 2. Subscribe to Gmail Push Notifications

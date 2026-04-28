@@ -2,6 +2,9 @@ from googleapiclient.discovery import build
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
 from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+from email.mime.base import MIMEBase
+from email import encoders
 import base64
 import os
 
@@ -21,11 +24,33 @@ class GmailService:
         return build('gmail', 'v1', credentials=credentials)
 
     @staticmethod
-    def send_application_email(credentials, to_email: str, subject: str, body: str) -> dict:
+    def send_application_email(credentials, to_email: str, subject: str, body: str, attachment_content: str = None, attachment_filename: str = None) -> dict:
         service = GmailService.get_service(credentials)
-        message = MIMEText(body)
+        
+        # Create a multipart message
+        message = MIMEMultipart()
         message['to'] = to_email
         message['subject'] = subject
+        
+        # Attach the body text
+        message.attach(MIMEText(body))
+        
+        # Attach the PDF if provided
+        if attachment_content and attachment_filename:
+            try:
+                # The content is expected to be a base64 encoded string from the frontend
+                part = MIMEBase('application', 'pdf')
+                part.set_payload(base64.b64decode(attachment_content))
+                encoders.encode_base64(part)
+                part.add_header(
+                    'Content-Disposition',
+                    f'attachment; filename="{attachment_filename}"'
+                )
+                message.attach(part)
+                print(f"✅ Successfully attached file: {attachment_filename}")
+            except Exception as e:
+                print(f"❌ Failed to attach file: {e}")
+
         raw = base64.urlsafe_b64encode(message.as_bytes()).decode('utf-8')
 
         sent = service.users().messages().send(

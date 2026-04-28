@@ -9,6 +9,8 @@ class EmailSendRequest(BaseModel):
     body: str
     access_token: str
     refresh_token: str
+    resume_base64: str | None = None
+    resume_filename: str | None = None
 
 class ApplicationResponse(BaseModel):
     id: int
